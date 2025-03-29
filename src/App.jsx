@@ -19,7 +19,7 @@ const App = () => {
       <aside className="w-1/4 bg-white/20 backdrop-blur-md p-6 flex flex-col items-center rounded-lg shadow-lg m-6">
         {/* Profile Image */}
         <img
-          src="src/assets/profilepic.jpg"
+          src="/profilepic.jpg"
           alt="Profile"
           className="w-24 h-24 rounded-full border-4 border-white shadow-lg glow-border"
         />
