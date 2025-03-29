@@ -8,6 +8,7 @@ import Contact from "./pages/Contact";
 import Resume from "./pages/Resume";
 import Portfolio from "./pages/Portfolio";
 
+
 const App = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-pink-300 via-pink-200 to-yellow-200 flex relative">
